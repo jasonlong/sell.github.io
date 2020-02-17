@@ -6,3 +6,5 @@ I am a front-end web developer, soon to be a full stack developer. I am currentl
 - [lab 1](#)
 - [lab 2](#)
 - [lab 3](3)
+- [lab 4](#)
+- [lab 4 Updated Version](Lab-4-Cookie-and-Browser-Detection-updated)
