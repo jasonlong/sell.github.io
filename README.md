@@ -12,4 +12,15 @@ I am a front-end web developer, soon to be a full stack developer. I am currentl
 - [lab 5: Javascript and Animation](Lab5.-Javascript-and-Animation)
 
 #### Other Projects
+ - Updating
+ 
+#### Skills
+ - Html
+ - Css
+ - Js
+ - Bootstrap
+ - Python (Not much)
+ - Php (Not much)
+ - Linux
+ - PHP myadmin
 
