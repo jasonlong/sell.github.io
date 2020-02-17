@@ -23,7 +23,7 @@ I am a front-end web developer, soon to be a full stack developer. I am currentl
  - Php (Not much)
  - Linux
  - PHP myadmin
- 
+
  ### Certificates
   - W3Schools Html
   - W3Schools Css
