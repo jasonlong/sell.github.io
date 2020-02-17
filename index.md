@@ -1,5 +1,5 @@
 # Jayson
 
 #### School Labs ####
-* [lab1](lab4/)
+* [lab4](lab4/index.html)
   
