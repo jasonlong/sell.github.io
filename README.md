@@ -4,7 +4,7 @@ I am a front-end web developer, soon to be a full stack developer. I am currentl
 
 #### School Labs ####
 - [lab 1: Hello World](Lab1-Hello-World)
-- [lab 2](#)
+- [lab 2: Lab in Zybooks](#)
 - [lab 3: About Me](Lab3.-AboutMe)
 - [lab 4 Old Version: Cookie and Browser Detection](Lab-4-Cookie-and-Browser-Detection)
 - [lab 4 Updated Version: Cookie and Browser Detection](Lab-4-Cookie-and-Browser-Detection-updated)
